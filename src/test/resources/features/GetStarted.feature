@@ -1,7 +1,6 @@
 
 @GetStartedPage
-Feature: As a user
-  I am able to access homepage and click on Get started button
+Feature: As a user I am able to access homepage and click on Get started button
 
  @TC_001
  Scenario: On entering the DSAlgo portal url, Home page should be opened
