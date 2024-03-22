@@ -20,6 +20,7 @@ public class GetStarted_SD {
 	
 		driver = new ChromeDriver();
 
+		
 	}
 
 	@When("The user enter the DS_Algo Portal <URL>")
